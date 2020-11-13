@@ -2,7 +2,7 @@
 
 Gender Inequality Around the World
 
-	Though things have improved for women in recent years, gender inequalities still appear to remain large. Through data visualisation, we want to determine how large the inequality is in different countries around the world. 
+Though things have improved for women in recent years, gender inequalities still appear to remain large. Through data visualisation, we want to determine how large the inequality is in different countries around the world. 
 
 Objectives: 
 Visualise the pay gap between men and women around the world
