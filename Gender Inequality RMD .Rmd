@@ -1,0 +1,16 @@
+---
+title: "Gender Inequality Around the World"
+author: "Group 4"
+date: "11/20/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+
+
+
+``` 
