@@ -280,6 +280,7 @@ ggpairs(correlation_matrix, columns=1:6,
     theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1)) 
   
 ```
+### Hypothesis Testing 
 
 ### Regression Analysis
 
@@ -305,7 +306,7 @@ model3 <- lm(perc_gender_pay_gap ~
 huxreg(model1, model2, model3)
 
 str(all_income_hdi)
-
+## still trying to find more variables to utilise to make a more meaningful model 
 ```
 
 ### Visualisation Explainations
