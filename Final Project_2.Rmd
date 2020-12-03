@@ -310,7 +310,6 @@ str(all_income_hdi)
 ### Visualisation Explainations
 1. Global Gender Inequality 
 2. Gender Inequality within EU
-3. Dimension 1: Health 
-4. Dimension 2: Empowerment 
-5. Dimension 3: Labour
-
+3. Dimension 1: Health -> Female reproductive health index
+4. Dimension 2: Empowerment -> Female empowerment index
+5. Dimension 3: Labour -> Female labor market index
