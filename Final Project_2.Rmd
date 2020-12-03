@@ -218,7 +218,7 @@ all_income_hdi %>%
 
 ## As expected the middle east mainly accounts for the extreme values in male income, whilst interestingly enough Singapore and Brunei account for the majority of extreme values in female incomes. Nevertheless, following research we can conclude that there are no data entry issues with our dataset
 
-# visualise the dependent variable
+
 
 
 ```
@@ -247,7 +247,7 @@ change <- all_income_hdi %>%
   filter(year %in% c(1995, 2018)) %>% 
   group_by(continent, year) %>% 
   summarise(count = count(perc_gender_pay_gap > 50))
-## Things are getting better!!!
+## Percentage paygap has decreasead significantly in all continents, with Europe as expected having the smallest number both in 1995 and 2018
 
 ```
 
