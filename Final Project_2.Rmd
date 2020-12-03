@@ -306,3 +306,11 @@ huxreg(model1, model2, model3)
 str(all_income_hdi)
 
 ```
+
+### Visualisation Explainations
+1. Global Gender Inequality 
+2. Gender Inequality within EU
+3. Dimension 1: Health 
+4. Dimension 2: Empowerment 
+5. Dimension 3: Labour
+
