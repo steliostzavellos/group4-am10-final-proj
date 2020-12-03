@@ -285,6 +285,7 @@ ggpairs(correlation_matrix, columns=1:6,
 
 Our first models are shown below:
 ```{r}
+
 ##makes first 2 models using instructions from Kostis
 model1 <- lm(perc_gender_pay_gap ~
                hdi,
